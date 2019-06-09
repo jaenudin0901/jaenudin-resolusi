@@ -1,6 +1,6 @@
 Jaenudin Resolusi'
 - Konsisten belajar webprograming
 - Belajar Codeigniter sampai expert
-- Belajar Git & Github
 - Belajar Laravel
 - Belajar Api
+- Membuat Webiste pribadi
