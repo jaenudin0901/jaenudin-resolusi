@@ -8,5 +8,7 @@ RENCANA KONTEN JAENUDIN
 - CSS
  ^CSS3
 - Javascript
+ ^ Angular
+ ^ React
 - HTML5
 - Vlogs
