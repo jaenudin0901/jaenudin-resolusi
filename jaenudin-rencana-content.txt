@@ -2,10 +2,13 @@ RENCANA KONTEN JAENUDIN
 - PHP
   * PHP Dasar
   * PHP Main
-
+  ^ PHP 5
+  ^ PHP 7
+  Struktur data dasar 
 - CSS
-^ CSS 3
+ ^CSS3
 - Javascript
  ^ Angular
  ^ React
 - HTML5
+- Vlogs
