@@ -1,5 +1,7 @@
 RENCANA KONTEN JAENUDIN
 - PHP
+  * PHP Dasar
+  * PHP Main
 - CSS
 - Javascript
 - HTML5
